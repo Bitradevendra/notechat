@@ -1,11 +1,23 @@
 # notechat
 
-`notechat` currently contains a Tailwind CSS configuration file.
+`notechat` currently contains a Tailwind CSS configuration file and a minimal project shell.
 
-## Contents
+## Overview
 
-- `tailwind.config.js`
+This repository reflects the current contents of the `D:\notechat` folder as it exists on disk today.
 
-## Notes
+## Project Structure
 
-This repository reflects the current contents of the `D:\notechat` folder exactly as available on disk.
+```text
+notechat/
+|-- tailwind.config.js
+`-- README.md
+```
+
+## Running The Project
+
+There is not yet enough source code in this folder to run a complete application.
+
+## How It Works
+
+At the moment the repository acts as a placeholder project root centered around the Tailwind configuration file.
