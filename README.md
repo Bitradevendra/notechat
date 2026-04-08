@@ -1,10 +1,10 @@
-# notechat
+# NoteChat
 
-`notechat` currently contains a Tailwind CSS configuration file and a minimal project shell.
+A tiny starter repository that currently acts as the seed of a future UI project.
 
-## Overview
+## What’s Here Right Now
 
-This repository reflects the current contents of the `D:\notechat` folder as it exists on disk today.
+`notechat` currently contains a Tailwind configuration file and a README, which makes it less of a finished app and more of a prepared project shell.
 
 ## Project Structure
 
@@ -14,10 +14,10 @@ notechat/
 `-- README.md
 ```
 
-## Running The Project
+## How To Use It
 
-There is not yet enough source code in this folder to run a complete application.
+There is not yet enough source code here to run a full application.
 
-## How It Works
+## Why Keep It Anyway
 
-At the moment the repository acts as a placeholder project root centered around the Tailwind configuration file.
+This repo is still useful as a clean naming claim and styling seed for whatever `notechat` grows into next.
