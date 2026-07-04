@@ -1,0 +1,17 @@
+{
+  "short_name": "Notepad",
+  "name": "Notepad",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://fonts.gstatic.com/s/i/materialicons/edit/v6/24px.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait"
+}

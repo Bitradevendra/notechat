@@ -1,0 +1,8 @@
+{
+  "name": "DuoChat - Private Couple Messenger",
+  "description": "A private, encrypted-style chatting application designed exclusively for two people with real-time syncing, voice notes, and AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "your_project_number",
+    "firebase_url": "https://your-project-default-rtdb.firebaseio.com",
+    "project_id": "your-project-id",
+    "storage_bucket": "your-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "your_android_app_id",
+        "android_client_info": {
+          "package_name": "com.duochat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "your_android_firebase_api_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

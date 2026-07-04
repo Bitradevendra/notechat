@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">notepad</string>
+    <string name="title_activity_main">notepad</string>
+    <string name="package_name">com.duochat.app</string>
+    <string name="custom_url_scheme">com.duochat.app</string>
+    
+    <!-- Notification Channels (Disguised as Notepad) -->
+    <string name="notification_channel_name">My Notes</string>
+    <string name="notification_channel_description">Updates for your notes</string>
+    <string name="notification_default_title">My Notes</string>
+    <string name="notification_default_body">New note update available</string>
+</resources>
+
